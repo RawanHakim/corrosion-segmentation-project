@@ -1,0 +1,10 @@
+torch
+torchvision
+transformers==4.38.2
+timm==0.9.16
+opencv-python==4.9.0.80
+numpy
+matplotlib
+# VL53L1X ToF distance sensor (Jetson Orin Nano via I2C)
+adafruit-blinka
+adafruit-circuitpython-vl53l1x
